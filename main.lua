@@ -155,7 +155,7 @@ Main = (function()
 	Main.AppControls = {}
 	Main.Apps = Apps
 	Main.MenuApps = {}
-	Main.GitRepoName = "LorekeeperZinnia/Dex"
+	Main.GitRepoName = "zzerexx/Dex"
 	
 	Main.DisplayOrders = {
 		SideWindow = 8,
